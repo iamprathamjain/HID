@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#An amazing inspiration by HID
+
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec 17 14:38:24 2019
